@@ -1,0 +1,60 @@
+body{
+  background: white;
+}
+.active{
+  color: #d92d7f;
+}
+.blank{
+  height: 0.08rem;
+  background: #f1f1f1;
+  width: 100%;
+}
+.btn-default{
+  color:white;
+}
+.btn-default:hover{
+  color:white;
+}
+.btn-default:active:hover{
+  color:white;
+}
+.btn-default:active{
+  color:white;
+}
+.activeB{
+  background: #ff5777 !important;
+}
+.line_01 {
+  height: 1px;
+  border-top: 1px solid #313131;
+  text-align: center;
+  font-size: 0.16rem;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+.line_01 span {
+  position: relative;
+  top: -0.12rem;
+  background: #ffc5c5;
+  padding: 0 0.2rem;
+}
+.bot{
+  width: 0.1rem;
+  height: 0.1rem;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  background: #d3a5ff;
+  display: inline-block;
+  line-height: 0.1rem  ;
+  color: white;
+  text-align: center;
+  font-size: 0.1rem;
+  padding: 0.02rem;
+}
+.flexw{
+  flex-wrap: wrap;
+}
+.fx-4{
+  flex: 1 1 40%;
+}

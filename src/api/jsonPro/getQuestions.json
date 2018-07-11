@@ -1,0 +1,66 @@
+{
+    "code": "200",
+    "data": {
+         "questions":[
+             {
+                 "id": 0,
+                 "questionNo": 0,
+                 "image": "",
+                 "audio": "",
+                 "content": "你更喜欢下面哪张图片",
+                 "testAnswerDtos": [
+                     {
+                         "id": 100,
+                         "questionId": 0,
+                         "answerNo": "1",
+                         "content": "",
+                         "image": "http://img.hb.aicdn.com/13dbfc56d591d22bd127453535ad5b9bd04c8fb611cff-rADYYQ_fw658",
+                         "jumpAnsId": "string"
+                     },
+                     {
+                         "id": 101,
+                         "questionId": 0,
+                         "answerNo": "2",
+                         "content": "",
+                         "image": "http://img.hb.aicdn.com/13dbfc56d591d22bd127453535ad5b9bd04c8fb611cff-rADYYQ_fw658",
+                         "jumpAnsId": "string"
+                     }
+                 ]
+             },
+             {
+                 "id": 1,
+                 "questionNo": 0,
+                 "image": "",
+                 "audio": "http://fs.w.kugou.com/201806231842/60794a0647bada51eae1e2ac3c480a5f/G126/M00/14/1B/XpQEAFsrXQiAFcFMACT6SxZhJpQ092.mp3",
+                 "content": "下面这首歌曲谁唱的",
+                 "testAnswerDtos": [
+                     {
+                         "id": 200,
+                         "questionId": 0,
+                         "answerNo": "1",
+                         "content": "周杰伦",
+                         "image": "",
+                         "jumpAnsId": "string"
+                     },
+                     {
+                         "id": 201,
+                         "questionId": 0,
+                         "answerNo": "1",
+                         "content": "林俊杰",
+                         "image": "",
+                         "jumpAnsId": "string"
+                     },
+                     {
+                         "id": 202,
+                         "questionId": 0,
+                         "answerNo": "1",
+                         "content": "我不知道我不知道我不知道我不知道我不知道我不知道我不知道",
+                         "image": "",
+                         "jumpAnsId": "string"
+                     }
+                 ]
+             }
+         ]
+    },
+    "msg": "成功"
+}

@@ -1,0 +1,18 @@
+{
+    "code": "200",
+    "data": {
+        "testAnalysis":"您可能是一个相对积极乐观的人，对未来充满希望，能够妥善处理人际关系，可能有时会意气用事，情绪上偶尔会出现失控的表现。内心渴望安祥自由的生活，内心光明磊落、坦荡率真，希望尝试新的事务、新的挑战，但是行动上往往难以跨出第一步，对未来和不确定的事情，不敢轻易尝试目前的状态压力比较大，需要进行关注，压力状态是可以调整的，也是暂时性的，建议调整生活状态，必要时寻求心理咨询师的帮助",
+        "testTime":"2018-10-10 12:00",
+        "testScore":"8.8",
+        "likeAnimalName":"猫头鹰",
+        "likeAnimalImage":"http://img.hb.aicdn.com/f1b6b5d95f9a4de89c8558dc60321083e2a5a74a22011-inNcRw_fw658",
+        "emotionChange":[2,5,-2,3,3,1],
+        "emotionDescript":"您的情绪正在慢慢变好",
+        "mentalHealthTree":{
+          "mentalTreeImage":"http://img.hb.aicdn.com/8d5bf3a8002dfb7d195d37a9641a28eabcfb0d70433a7-3JK8Q8_fw658",
+           "mentalText":"状态不错"
+        },
+        "suggestions":"您的压力状态尚可，可其尽量消除压力与紧张，不如学着与其共处，您的压力状态尚可，可其尽量消除压力与紧张，不如学着与其共处您的压力状态尚可，可其尽量消除压力与紧张，不如学着与其共处"
+    },
+    "msg": "成功"
+}

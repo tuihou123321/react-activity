@@ -1,0 +1,8 @@
+{
+    "code": "200",
+    "data": {
+        "uid": 1000,
+        "accessToken": "444444"
+    },
+    "msg": "string"
+}

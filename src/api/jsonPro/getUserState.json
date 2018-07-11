@@ -1,0 +1,64 @@
+{
+    "code": 200,
+    "data": {
+        "status": 0,
+        "selfReport": [
+            "您可能是一个相对积极乐观的人，对未来充满希望，能够妥善处理人际关系，可能有时会意气用事，情绪上偶尔会出现失控的表现。内心渴望安祥自由的生活，内心光明磊落、坦荡率真，希望尝试新的事务、新的挑战，但是行动上往往难以跨出第一步，对未来和不确定的事情，不敢轻易尝试目前的状态压力比较大，需要进行关注，压力状态是可以调整的，也是暂时性的，建议调整生活状态，必要时寻求心理咨询师的帮助",
+            "222您可能是一个相对积极乐观的人，对未来充满希望，能够妥善处理人际关系，可能有时会意气用事"
+        ],
+        "rooms": [
+            {
+                "id": 0,
+                "room_name": "房间名字1",
+                "number": "1",
+                "location_image": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map.png",
+                "location_image_trans": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map_position.png",
+                "effect": 0,
+                "qrcode": "string",
+                "isTested": true
+            },
+            {
+                "id": 1,
+                "room_name": "房间名字2",
+                "number": "2",
+                "location_image": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map.png",
+                "location_image_trans": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map_position.png",
+                "effect": 0,
+                "qrcode": "string",
+                "isTested": false
+            },
+            {
+                "id": 1,
+                "room_name": "房间名字2",
+                "number": "3",
+                "location_image": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map.png",
+                "location_image_trans": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map_position.png",
+                "effect": 0,
+                "qrcode": "string",
+                "isTested": false
+            }
+        ],
+        "currentRoom": {
+            "id": 0,
+            "room_name": "string",
+            "number": "string",
+            "location_image": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map.png",
+            "location_image_trans": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map_position.png",
+            "effect": 0,
+            "qrcode": "string",
+            "isTested": true
+        },
+        "nextRoom": {
+            "id": 0,
+            "room_name": "string",
+            "number": "string",
+            "location_image": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map.png",
+            "location_image_trans": "http://gitlab.yidianling.com/zhuqiao/xinfang-mobile/raw/dev/src/static/images/map_position.png",
+            "effect": 0,
+            "qrcode": "string",
+            "isTested": true
+        },
+        "testTime": "2017/12/12 星期一"
+    },
+    "msg": "成功"
+}
